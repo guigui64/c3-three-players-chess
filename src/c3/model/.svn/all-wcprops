@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/n6k-2a-2011-g7-c3/!svn/ver/429/c3/src/c3/model
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Model.java
+END
+Pion.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Pion.java
+END
+Dame.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Dame.java
+END
+Joueur.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Joueur.java
+END
+Case.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Case.java
+END
+Zone.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Zone.java
+END
+Echiquier.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/n6k-2a-2011-g7-c3/!svn/ver/428/c3/src/c3/model/Echiquier.java
+END
+Couleur.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Couleur.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Timer.java
+END
+Direction.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Direction.java
+END
+Deplacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Deplacement.java
+END
+Partie.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Partie.java
+END
+Piece.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/n6k-2a-2011-g7-c3/!svn/ver/429/c3/src/c3/model/Piece.java
+END
+Cavalier.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Cavalier.java
+END
+Tour.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Tour.java
+END
+Roi.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Roi.java
+END
+Fou.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/n6k-2a-2011-g7-c3/!svn/ver/426/c3/src/c3/model/Fou.java
+END
